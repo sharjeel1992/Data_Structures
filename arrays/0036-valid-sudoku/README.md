@@ -11,5 +11,5 @@ Validate a partially filled 9×9 Sudoku board. Each row, column, and 3×3 box mu
 - For each digit cell, if it already exists in any of the three → invalid; else insert and continue.
 
 ## Complexity
-- Time: O(81)
-- Space: O(81) (or O(1) with bit masks)
+- Time: O(n^2)
+- Space: O(n^2) (or O(1) with bit masks)
