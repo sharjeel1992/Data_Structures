@@ -18,4 +18,4 @@ Array is sorted; moving the pointer on the side that makes the sum too large/sma
 
 ## Complexity
 - **Time:** O(n)
-- **Space:** O(1)EOF
+- **Space:** O(1)
